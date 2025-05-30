@@ -35,7 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-barros-30a22330a)  
 [![Email](https://img.shields.io/badge/Email-lucaspnbrrs@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lucaspnbrrs@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge)]([https://yourportfolio.com](https://lucasbarrosdev-swart.vercel.app/)) <!-- Replace with your real link -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge)](https://lucasbarrosdev-swart.vercel.app/)) <!-- Replace with your real link -->
 
 ---
 
