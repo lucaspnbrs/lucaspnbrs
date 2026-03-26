@@ -75,12 +75,7 @@ const lucas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaspnbrs&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspnbrs&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspnbrs&theme=tokyonight&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaspnbrs&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" width="480"/>
 </div>
 
 ---
