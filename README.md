@@ -17,9 +17,9 @@
 
 ```typescript
 const lucas = {
-  role:        "Full Stack Developer",
+  role:        "Full Stack Developer | Next.js | TypeScript",
   education:   "Computer Science Student",
-  focus:       ["Web Development", "AI & Automation", "Clean Architecture"],
+  focus:       ["Web Development", "AI & Automation", "Clean Architecture", "Mobile Development", "Scalling applications"],
   mindset:     "Always improving, one commit at a time",
   available:   "Open to collaboration & freelance opportunities 🤝",
 };
