@@ -31,7 +31,6 @@ const lucas = {
   
   company:   ["JL.Code", "Code.AI"],
   position:  "Tech Lead & Founding Partner",
-  team:      ["Lucas", "Jadson", "Dr. Aluysio"],
   
   expertise: {
     frontend:  ["Next.js", "React", "TypeScript"],
