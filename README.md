@@ -182,7 +182,7 @@ const lucas = {
 Q1 ████████████░░░░ Automações com IA + NestJS avançado ✅
 Q2 ████████░░░░░░░░ Go Lang + Sistemas distribuídos  🔄
 Q3 ░░░░░░░░░░░░░░░░ Kubernetes + Advanced AWS          📌
-Q4 ░░░░░░░░░░░░░░░░ Produto SaaS próprio para licitar  📌
+Q4 ░░░░░░░░░░░░░░░░ Produto SaaS próprio para vender e escalar 📌
 ```
 
 <br/>
